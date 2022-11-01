@@ -1,0 +1,43 @@
+.banner{
+    padding: 80px 40px;
+}
+.banner-text h3{
+    font-size: 1.2rem;
+    text-align: right;
+}
+.banner-text p{
+    text-align: justify;
+}
+
+.items{
+    padding: 50px 0;
+    grid-template-columns: 1fr;
+}
+.items .item{
+    padding: 18px 0;
+}
+.start-box{
+    height: 180px;
+}
+.start-box h4{
+    font-size: 1.2rem;
+
+}
+.start-box p{
+    font-size: 1rem;
+}
+.support{
+    width: calc(100% - 60px);
+    padding: 0;
+    margin: 50px 30px;
+}
+.support-request,.support-number{
+    font-size: .95rem;
+}
+footer{
+    width: calc(100% - 60px);
+    margin: 0 30px;
+}
+.footer-links p ,.footer-links a{
+    font-size: .9rem;
+}
